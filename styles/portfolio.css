@@ -146,17 +146,44 @@ main section{
 
 }
 
+/* A summary of My Resume */
+.resume{
 
+}
+.resume hr{
+  margin: 30px 5px;
+}
+.section-title{
 
+}
+.resume-container{
+  display: flex;
+  gap: 24px;
+}
+.resume-column{
 
+}
+.resume-column-title{
 
+}
+.experience{
 
+}
+.experience-title{
 
-
-
-
-
-
+}
+.experience-sub-title{
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.experience-description{
+  color: #757575;
+}
+.resume-dl-cv{
+  margin-top: 50px;
+}
 
 
 
